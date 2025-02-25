@@ -1,0 +1,313 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'JoseFine Sans', sans-serif;
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+ 
+header {
+    background-color: #28bf96;
+    padding: 60px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+  }
+.alexis{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #ffffff;
+}
+.alexis img{
+    height: auto;
+    width: 400px;
+}
+.alexis-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.alexis-text h4{
+    color: black;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.alexis-text h5{
+    color: black;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+span{
+    color: #28bf96;
+}
+.alexis-text p{
+    color: #6b7280;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+button{
+    background-color: #209677;
+    color: Black;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+button:hover{
+    background: transparent;
+    border: 2px solid #209677;
+    cursor: pointer;
+}
+
+.cleare{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #ffffff;
+}
+.cleare img{
+    height: auto;
+    width: 400px;
+}
+.cleare-text{
+    width: 550px;
+}
+.second{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.cleare-text h4{
+    color: black;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.cleare-text h5{
+    color: black;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+span{
+    color: #28bf96;
+}
+.cleare-text p{
+    color: #6b7280;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+button{
+    background-color: #209677;
+    color: Black;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+button:hover{
+    background: transparent;
+    border: 2px solid #209677;
+    cursor: pointer;
+}
+
+.jarizze{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #ffffff;
+}
+.jarizze img{
+    height: auto;
+    width: 400px;
+}
+.jarizze-text{
+    width: 550px;
+}
+.third{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.jarizze-text h4{
+    color: black;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.jarizze-text h5{
+    color: black;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+span{
+    color: #28bf96;
+}
+.jarizze-text p{
+    color: #6b7280;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+button{
+    background-color: #209677;
+    color: Black;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+button:hover{
+    background: transparent;
+    border: 2px solid #209677;
+    cursor: pointer;
+}
+
+
+.nicole{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #ffffff;
+}
+.nicole img{
+    height: auto;
+    width: 400px;
+}
+.nicole-text{
+    width: 550px;
+}
+.fourth{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nicole-text h4{
+    color: black;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.nicole-text h5{
+    color: black;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+span{
+    color: #28bf96;
+}
+.nicole-text p{
+    color: #6b7280;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+button{
+    background-color: #209677;
+    color: Black;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+button:hover{
+    background: transparent;
+    border: 2px solid #209677;
+    cursor: pointer;
+}
+
+
+.norhannie{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #ffffff;
+}
+.norhannie img{
+    height: auto;
+    width: 400px;
+}
+.norhannie-text{
+    width: 550px;
+}
+.fifth{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.norhannie-text h4{
+    color: black;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.norhannie-text h5{
+    color: black;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+span{
+    color: #28bf96;
+}
+.norhannie-text p{
+    color: #6b7280;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+button{
+    background-color: #209677;
+    color: Black;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+button:hover{
+    background: transparent;
+    border: 2px solid #209677;
+    cursor: pointer;
+}
